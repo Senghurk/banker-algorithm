@@ -1,6 +1,6 @@
-Banker’s Algorithm
+# Banker’s Algorithm
 
-A Java implementation and simulation of Banker’s Algorithm for deadlock avoidance with multiple processes and resource types.
+## A Java implementation and simulation of Banker’s Algorithm for deadlock avoidance with multiple processes and resource types.
 
 Computes Need = Max − Allocation
 
