@@ -28,7 +28,7 @@ public class BankerAlgorithm {
             int[][] neededMatrix = new int[processSize][resourceSize];
             int[] availableVector = new int[resourceSize];
             
-            System.out.print("Enter I to get input data from a file or press any key for random data: ");
+            System.out.print("Enter i to get input data from a file or press r for random data: ");
             scanner.nextLine(); 
             String choice = scanner.nextLine();
 
